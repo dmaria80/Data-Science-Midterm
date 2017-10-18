@@ -1,0 +1,13 @@
+---
+title: "9:00 Midterm"
+output: html_document
+---
+#####Dominic Mariano
+#####October 18, 2017
+Here is some arithmetic:
+```{r}
+x<-3
+y<-4
+x-sqrt(y)
+```
+
